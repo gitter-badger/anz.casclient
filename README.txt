@@ -332,3 +332,5 @@ ToDo
 ====
 * Add automation tests ( I really don't know how to automation test this
   kind of package :) )
+
+Join the chat at https://gitter.im/collective/anz.casclient
